@@ -1,0 +1,6 @@
+regex
+Automations
+GUI: PyQt5 
+Home Automation
+turtle
+
