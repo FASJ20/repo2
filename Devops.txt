@@ -6,3 +6,4 @@ Sonarqube
 Linux
 AWS
 Git and github
+maven
